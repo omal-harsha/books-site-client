@@ -12,7 +12,7 @@ export const Home = () => {
       try {
         const res = await axios.get("https://books-site.herokuapp.com/books")
         setBooks(res.data)
-        console.log(res.data)
+        console.log("book data",res.data)
       } catch (error) {
         console.log(error)
       }
