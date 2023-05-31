@@ -24,7 +24,7 @@ export const Home = () => {
 
     if(window.confirm("Are you sure you want to delete this post.?")){
     try {
-      const res = await axios.delete("https://books-site.herokuapp.com/"+id)
+      const res = await axios.delete("https://books-site.herokuapp.com/books/"+id)
       alert(res.data)
       window.location.reload()
     } catch (error) {
