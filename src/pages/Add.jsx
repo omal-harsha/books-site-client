@@ -93,7 +93,7 @@ export const Add = () => {
         
     
     </div>
-        <div><button disabled={true} className={`${loading ? 'cursor-not-allowed' : ''} bg-green-600 text-white px-4 py-2 my-3 rounded-lg font-semibold hover:bg-green-700 duration-300 hover:shadow-lg`} onClick={handlClick}>Add Book</button></div>
+        <div><button disabled={loading} className={`${loading ? 'cursor-not-allowed' : ''} bg-green-600 text-white px-4 py-2 my-3 rounded-lg font-semibold hover:bg-green-700 duration-300 hover:shadow-lg`} onClick={handlClick}>Add Book</button></div>
         
     </div>
   )
