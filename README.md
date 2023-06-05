@@ -1,4 +1,5 @@
-# Book store
+# Book store 
+### (Client side source code)
 
 > Experience the power of React and Node.js in this expressive CRUD application, powered by MySQL and styled with Tailwind CSS. Store and manage your data effortlessly while enjoying the convenience of cloud storage using Firebase.
 
