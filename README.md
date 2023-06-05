@@ -1,18 +1,18 @@
-#Book store
+# Book store
 
-Experience the power of React and Node.js in this expressive CRUD application, powered by MySQL and styled with Tailwind CSS. Store and manage your data effortlessly while enjoying the convenience of cloud storage using Firebase.
+> Experience the power of React and Node.js in this expressive CRUD application, powered by MySQL and styled with Tailwind CSS. Store and manage your data effortlessly while enjoying the convenience of cloud storage using Firebase.
 
-##Key Features
+## Key Features
 Perform basic CRUD operations with ease
 Seamlessly integrate MySQL and MySQL Workbench for efficient data management
 Elevate your user interface with the sleek styling of Tailwind CSS
 Store and retrieve images effortlessly using Firebase cloud storage
 
-Deployment
+## Deployment
 The React application is deployed on Vercel, and can be accessed at https://books-site.vercel.app/
 The Node.js application is deployed on Heroku
 
-Technologies Used
+## Technologies Used
 React
 Node.js
 Express.js
