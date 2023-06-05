@@ -86,7 +86,7 @@ export const Update = () => {
     <div className='flex flex-col items-center space-y-5 h-screen justify-center  bg-slate-50'>
       <div className='flex items-center space-x-3'>
         <Link to="/" className='flex '><UilArrowCircleLeft/></Link>
-        <h1 className='text-2xl font-bold text-gray-600'>Add new book</h1>
+        <h1 className='text-2xl font-bold text-gray-600'>Update book</h1>
       </div>
     <div className='flex space-x-5 md:space-x-10 bg-white p-5 md:p-16 rounded-lg shadow-lg'>
         <div className='flex flex-col space-y-6 font-bold text-gray-500'>
